@@ -30,4 +30,11 @@ ls -l | less
 
 ## grep
 
-<font color=#00ff00 size=72>**TODO!**</font>
+<font color=#00ff00 size=72>**TODO!**</font>    
+
+
+---------------------------------
+
+<font color=#ff0000 size =35>
+[Resoure link](http://linuxcommand.org/lc3_learning_the_shell.php)
+</font>
