@@ -35,6 +35,4 @@ ls -l | less
 
 ---------------------------------
 
-<font color=#ff0000 size =35>
-[Resoure link](http://linuxcommand.org/lc3_learning_the_shell.php)
-</font>
+[<font size=35>**Resoure link** </font>](http://linuxcommand.org/lc3_learning_the_shell.php)
