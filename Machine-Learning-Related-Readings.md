@@ -31,3 +31,7 @@
     [chinese version](http://studyai.site/2017/06/13/%E3%80%90%E7%BF%BB%E8%AF%91%E3%80%91%E8%A7%86%E8%A7%89%E4%BF%A1%E6%81%AF%E8%AE%BA/)
 
 ------------------------
+
+## PageRank 
+
+[PageRank Algorithm - The Mathematics of Google Search](http://www.math.cornell.edu/~mec/Winter2009/RalucaRemus/Lecture3/lecture3.html) (**_read recommended strongly!_**) perfectly explained the insight and intuition of PageRank algorithm, and why the iterative process will eventually convergence!
