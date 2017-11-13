@@ -36,6 +36,8 @@
 
 [PageRank Algorithm - The Mathematics of Google Search](http://www.math.cornell.edu/~mec/Winter2009/RalucaRemus/Lecture3/lecture3.html) (**_read recommended strongly!_**) perfectly explained the insight and intuition of PageRank algorithm, and why the iterative process will eventually convergence!
 
+------------------------
+
 ## Softmax and Sigmoid Regression
 
 [UFLDL Home](http://ufldl.stanford.edu/tutorial/)  
