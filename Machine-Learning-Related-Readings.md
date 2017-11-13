@@ -35,3 +35,9 @@
 ## PageRank 
 
 [PageRank Algorithm - The Mathematics of Google Search](http://www.math.cornell.edu/~mec/Winter2009/RalucaRemus/Lecture3/lecture3.html) (**_read recommended strongly!_**) perfectly explained the insight and intuition of PageRank algorithm, and why the iterative process will eventually convergence!
+
+## Softmax and Sigmoid Regression
+
+[UFLDL Home](http://ufldl.stanford.edu/tutorial/)  
+[UFLDL Sigmoid/Logistic Regression](http://ufldl.stanford.edu/tutorial/supervised/LogisticRegression/)  
+[UFLDL Softmax Regression](http://ufldl.stanford.edu/tutorial/supervised/SoftmaxRegression/)  ([Chinese version](http://ufldl.stanford.edu/wiki/index.php/Softmax%E5%9B%9E%E5%BD%92#.E4.B8.AD.E6.96.87.E8.AF.91.E8.80.85))
