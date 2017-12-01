@@ -28,6 +28,11 @@ the standard output of first command is fed into the input of second
 ls -l | less
 ```
 
+## show directory size
+```shell
+du -sh [sub dir]
+```
+
 ## grep
 
 <font color=#00ff00 size=72>**TODO!**</font>    
