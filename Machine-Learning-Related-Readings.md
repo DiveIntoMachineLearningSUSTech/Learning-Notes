@@ -49,3 +49,15 @@
 ## CART
 
 [Regression Tree](https://cethik.vip/2016/09/21/machineCAST/)
+
+-------------------------
+
+## Support Vector Machine
+
+* [A Python online book](https://jakevdp.github.io/PythonDataScienceHandbook/)
+    
+    there is one chapter about how to use **_svm_** to classify data set using `scikit-learn`
+
+* [Lecture cs.columbia.edu](http://www.cs.columbia.edu/~kathy/cs4701/documents/jason_svm_tutorial.pdf)
+* [Lecture cs229.stanford.edu](http://cs229.stanford.edu/notes/cs229-notes3.pdf)
+* 【机器学习 周志华】相关章节
