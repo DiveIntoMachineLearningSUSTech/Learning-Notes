@@ -64,7 +64,13 @@
 
 -----------------------
 
-# Naive Bayes Classifier
+## Naive Bayes Classifier
 
 * [Stanford NLP Lecture](https://web.stanford.edu/class/cs124/lec/naivebayes.pdf)  
 * <http://www.ganecheng.tech/blog/53219332.html>
+
+---------------------------
+
+## Markov Decision Process(MPD)
+
+* [MIT Lecture](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/lecture-notes/Lecture20FinalPart1.pdf)
