@@ -66,4 +66,5 @@
 
 # Naive Bayes Classifier
 
-* [Stanford NLP Lecture](https://web.stanford.edu/class/cs124/lec/naivebayes.pdf)
+* [Stanford NLP Lecture](https://web.stanford.edu/class/cs124/lec/naivebayes.pdf)  
+* <http://www.ganecheng.tech/blog/53219332.html>
