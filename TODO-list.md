@@ -1,0 +1,3 @@
+ - electronic:<https://github.com/electron/electron>
+ - Convolutional Neural Networks for Visual Recognition:<http://cs231n.stanford.edu/>
+ - 

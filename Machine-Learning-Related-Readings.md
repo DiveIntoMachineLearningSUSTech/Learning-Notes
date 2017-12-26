@@ -25,8 +25,8 @@
 * [Cross-entropy](http://colah.github.io/posts/2015-09-Visual-Information/)
 
     >We call this difference the `Kullback–Leibler divergence`, or just the `KL` divergence. The KL divergence of $P$ with respect to $Q$, $D_Q(P)$ is defined:<br>
-    $D_Q(P)=H_Q(P) - H(P)$<br>
-    The really neat thing about KL divergence is that it’s like a distance between two distributions. It measures how different they are!
+    >$D_Q(P)=H_Q(P) - H(P)$<br>
+    >The really neat thing about KL divergence is that it’s like a distance between two distributions. It measures how different they are!
 
     [chinese version](http://studyai.site/2017/06/13/%E3%80%90%E7%BF%BB%E8%AF%91%E3%80%91%E8%A7%86%E8%A7%89%E4%BF%A1%E6%81%AF%E8%AE%BA/)
 
@@ -55,7 +55,7 @@
 ## Support Vector Machine
 
 * [A Python online book](https://jakevdp.github.io/PythonDataScienceHandbook/)
-    
+
     there is one chapter about how to use **_svm_** to classify data set using `scikit-learn`
 
 * [Lecture cs.columbia.edu](http://www.cs.columbia.edu/~kathy/cs4701/documents/jason_svm_tutorial.pdf)
@@ -67,6 +67,6 @@
 ## Naive Bayes Classifier
 
 * [Stanford NLP Lecture](https://web.stanford.edu/class/cs124/lec/naivebayes.pdf)  
-    mainly target for nlp
-
 * [CMU ML Lecture](https://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf)
+* <http://www.ganecheng.tech/blog/53219332.html>
+* [Additive smoothing](https://en.wikipedia.org/wiki/Additive_smoothing)
