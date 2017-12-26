@@ -14,3 +14,7 @@
 
 # Project
 - [ALinuxLANMessager](https://github.com/DiveIntoMachineLearningSUSTech/ALinuxLANMessager)
+
+# Robotics
+## simulation
+ - pygame <https://www.pygame.org/news>
